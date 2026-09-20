@@ -1,5 +1,7 @@
 # File Integrity Checker
 
+Project URL: https://github.com/m3rooted/File_Integrity_Checker
+
 A small Python 3 command-line tool that detects changes to application log files with SHA-256 hashes. It uses only the Python standard library.
 
 ## Requirements and installation
